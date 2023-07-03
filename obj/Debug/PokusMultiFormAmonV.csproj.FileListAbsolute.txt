@@ -1,0 +1,10 @@
+C:\Users\42072\source\repos\SKOLA - Projekty\PokusMultiFormAmonV\bin\Debug\PokusMultiFormAmonV.exe.config
+C:\Users\42072\source\repos\SKOLA - Projekty\PokusMultiFormAmonV\bin\Debug\PokusMultiFormAmonV.exe
+C:\Users\42072\source\repos\SKOLA - Projekty\PokusMultiFormAmonV\bin\Debug\PokusMultiFormAmonV.pdb
+C:\Users\42072\source\repos\SKOLA - Projekty\PokusMultiFormAmonV\obj\Debug\PokusMultiFormAmonV.csproj.AssemblyReference.cache
+C:\Users\42072\source\repos\SKOLA - Projekty\PokusMultiFormAmonV\obj\Debug\PokusMultiFormAmonV.csproj.SuggestedBindingRedirects.cache
+C:\Users\42072\source\repos\SKOLA - Projekty\PokusMultiFormAmonV\obj\Debug\PokusMultiFormAmonV.Properties.Resources.resources
+C:\Users\42072\source\repos\SKOLA - Projekty\PokusMultiFormAmonV\obj\Debug\PokusMultiFormAmonV.csproj.GenerateResource.cache
+C:\Users\42072\source\repos\SKOLA - Projekty\PokusMultiFormAmonV\obj\Debug\PokusMultiFormAmonV.csproj.CoreCompileInputs.cache
+C:\Users\42072\source\repos\SKOLA - Projekty\PokusMultiFormAmonV\obj\Debug\PokusMultiFormAmonV.exe
+C:\Users\42072\source\repos\SKOLA - Projekty\PokusMultiFormAmonV\obj\Debug\PokusMultiFormAmonV.pdb
